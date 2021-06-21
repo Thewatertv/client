@@ -100,7 +100,6 @@ namespace client
                     if(count==-1)
                     {
                         continue;
-
                     }
 
                     string Cleat_message = "";
